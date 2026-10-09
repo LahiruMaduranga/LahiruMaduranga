@@ -33,7 +33,7 @@
 
 | You're hiring for | Look at |
 | --- | --- |
-| Embedded firmware | [ESP32 Board](https://lahirumaduranga.github.io/projects/development-board.html) · [Robotic Hand](https://lahirumaduranga.github.io/projects/robotic-hand.html) · [Power Unit](https://lahirumaduranga.github.io/projects/power-supply.html) |
+| Embedded firmware & hardware | [Autonomous Rover](https://lahirumaduranga.github.io/projects/rover-chassis.html) · [MTG Sorter](https://lahirumaduranga.github.io/projects/card-sorter.html) · [More on the portfolio](https://lahirumaduranga.github.io/#projects) |
 | Robotics & autonomy | [Autonomous Rover](https://lahirumaduranga.github.io/projects/rover-chassis.html) · [CARLA & Isaac Sim clips](#-in-simulation) |
 | Computer vision | [ALPR Unit](https://lahirumaduranga.github.io/projects/alpr.html) · [MTG Sorter](https://lahirumaduranga.github.io/projects/card-sorter.html) · [Garment Measurement](https://lahirumaduranga.github.io/projects/garment-measurement.html) |
 | Product development or collaboration | [Connect on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) |
@@ -96,16 +96,7 @@ A computer-vision system for measuring garments as part of quality control.
 
 [Read the case study →](https://lahirumaduranga.github.io/projects/garment-measurement.html)
 
-### More engineering work
-
-| Project | Area |
-| --- | --- |
-| [AC Power & Battery Charging Unit](https://lahirumaduranga.github.io/projects/power-supply.html) | Power & integration |
-| [3D-Printed Robotic Hand Firmware](https://lahirumaduranga.github.io/projects/robotic-hand.html) | Firmware & articulated hardware |
-| [Real Time Object Recognition and Robot Arm Controls](https://lahirumaduranga.github.io/projects/robotic-arm.html) | Object recognition & control |
-| [Custom ESP32 Board](https://lahirumaduranga.github.io/projects/development-board.html) | PCB & device integration |
-| [Automated Garment Folding](https://lahirumaduranga.github.io/projects/fabric-handling.html) | Garment automation · confidential |
-| [Cleaning Robot](https://lahirumaduranga.github.io/projects/cleaning-robot-interface.html) | Robotics · confidential |
+More projects, including hardware designs and confidential work, are on my **[portfolio](https://lahirumaduranga.github.io/#projects)**.
 
 ## 🎬 In simulation
 
