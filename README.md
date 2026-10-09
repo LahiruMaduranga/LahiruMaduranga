@@ -26,7 +26,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/assembly-dark.svg">
-  <img src="assets/assembly-light.svg" alt="Animation: a robot arm places a box on a conveyor; it passes Requirements, Firmware, Integration, Testing, and Deploy stations in turn." width="100%">
+  <img src="assets/assembly-light.svg" alt="Animation: a robot arm places a box on a conveyor; it passes Requirements, Architecture, Implementation, Integration, Validation, and Deploy stations in turn." width="100%">
 </picture>
 
 ## 🧭 Hiring for…? Start here
