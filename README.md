@@ -40,61 +40,10 @@
 
 ## 🛠️ Featured work
 
-### [ALPR Unit with Gate Control](https://lahirumaduranga.github.io/projects/alpr.html)
-
-<img src="assets/photos/alpr-unit.webp" alt="ALPR unit enclosure shown in a project graphic labelled ALPR UNIT WITH GATE CONTROL FUNCTION" width="440">
-
-**Computer Vision / Access Control** · `Hardware prototype`
-
-An automatic license plate recognition unit with a gate-control function.
-
-- **Problem:** Gate access that depends on manual checks is slow and inconsistent at busy entrances.
-- **Approach:** An enclosed unit reads vehicle license plates with a camera and uses the result to drive a gate-control output.
-- **Topics:** License-plate recognition · Camera capture · Gate control · Enclosed unit
-
-[Read the case study →](https://lahirumaduranga.github.io/projects/alpr.html)
-
-### [MTG Card Recognition & Sorting Machine](https://lahirumaduranga.github.io/projects/card-sorter.html)
-
-<img src="assets/photos/card-sorter.jpg" alt="Card sorting machine with a card feeder on a lead-screw stage, an LED light bar, a belt-driven gantry, and rows of sorted trading cards in slots" width="440">
-
-**Computer Vision / Embedded Automation / System Integration** · `Hardware prototype`
-
-A machine-vision-based system designed to identify trading cards and support automated sorting through card recognition, OCR, variant classification, and backend integration.
-
-- **Problem:** Sorting large trading-card collections by hand is slow, and similar printings are easy to confuse.
-- **Approach:** A camera captures each card; OCR and variant classification identify it, a card database lookup confirms it, and the result drives the sorting mechanism.
-- **Topics:** Machine vision · OCR · Variant classification · Database lookup · Machine control
-
-[Read the case study →](https://lahirumaduranga.github.io/projects/card-sorter.html)
-
-### [Autonomous Rover & Sensor Integration](https://lahirumaduranga.github.io/projects/rover-chassis.html)
-
-<img src="assets/photos/rover-platform.webp" alt="Autonomous rover on an off-road chassis with a LiDAR sensor on top, a ZED Mini stereo camera and additional cameras at the front" width="440">
-
-**Robotics / Embedded Systems / Perception** · `Prototype platform`
-
-An integrated mobile robotics platform combining embedded control, onboard sensing, and perception components for autonomous-system development.
-
-- **Problem:** Developing autonomous behaviour needs a dependable mobile base where sensing, control, and perception can be integrated and tested together.
-- **Approach:** An off-road RC chassis is fitted with a mounting frame for a top LiDAR, a forward ZED Mini stereo camera, extra cameras, and the onboard control electronics, so perception and control can be developed on real hardware.
-- **Topics:** Mobile robotics · LiDAR · AprilTag · ZED Mini stereo camera · Sensor integration · Perception
-
-[Read the case study →](https://lahirumaduranga.github.io/projects/rover-chassis.html)
-
-### [Garment Measurement System](https://lahirumaduranga.github.io/projects/garment-measurement.html)
-
-<img src="assets/photos/garment.webp" alt="Long-sleeve striped shirt laid flat, cut out from its background" width="440">
-
-**Computer Vision / Measurement** · `Confidential project`
-
-A computer-vision system for measuring garments as part of quality control.
-
-- **Problem:** Measuring garments by hand for quality control is slow and varies between operators.
-- **Approach:** Garments are captured with a camera and measured automatically using computer vision and camera calibration.
-- **Topics:** Computer vision · Camera calibration · Measurement · Quality control
-
-[Read the case study →](https://lahirumaduranga.github.io/projects/garment-measurement.html)
+- **[ALPR Unit with Gate Control](https://lahirumaduranga.github.io/projects/alpr.html)** — An automatic license plate recognition unit with a gate-control function. [Case study →](https://lahirumaduranga.github.io/projects/alpr.html)
+- **[MTG Card Recognition & Sorting Machine](https://lahirumaduranga.github.io/projects/card-sorter.html)** — A machine-vision-based system designed to identify trading cards and support automated sorting through card recognition, OCR, variant classification, and backend integration. [Case study →](https://lahirumaduranga.github.io/projects/card-sorter.html)
+- **[Autonomous Rover & Sensor Integration](https://lahirumaduranga.github.io/projects/rover-chassis.html)** — An integrated mobile robotics platform combining embedded control, onboard sensing, and perception components for autonomous-system development. [Case study →](https://lahirumaduranga.github.io/projects/rover-chassis.html)
+- **[Garment Measurement System](https://lahirumaduranga.github.io/projects/garment-measurement.html)** — A computer-vision system for measuring garments as part of quality control. [Case study →](https://lahirumaduranga.github.io/projects/garment-measurement.html)
 
 More projects, including hardware designs and confidential work, are on my **[portfolio](https://lahirumaduranga.github.io/#projects)**.
 
