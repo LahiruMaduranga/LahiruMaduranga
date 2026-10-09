@@ -4,63 +4,139 @@
   <img src="assets/banner-dark.svg" alt="Lahiru Maduranga — Embedded Systems Engineer. Building systems that sense, move, and interact." width="100%">
 </picture>
 
-<p align="center"><a href="#a-quick-introduction">Introduction</a> · <a href="#selected-work">Selected work</a> · <a href="#open-source-notebook">Open source</a> · <a href="#engineering-focus">Engineering focus</a> · <a href="#lets-talk">Contact</a></p>
+<p align="center"><a href="#a-quick-introduction">Introduction</a> · <a href="#selected-work">Selected work</a> · <a href="#open-source-project">Open source</a> · <a href="#engineering-focus">Engineering focus</a> · <a href="#lets-talk">Contact</a></p>
 
 ## A quick introduction
 
 **Hi, I’m Lahiru Maduranga, an Embedded Systems Engineer from Sri Lanka.**
 
-I develop embedded firmware and integrate microcontrollers, sensors, and connected devices. My work spans hardware–software integration, robotics, and computer vision, with a focus on the practical challenges of connecting code to physical systems.
+I’m an Embedded Systems Engineer with more than five years of hands-on experience developing firmware, integrating hardware, and building intelligent connected systems.
 
-**[LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [GitHub](https://github.com/LahiruMaduranga) · [Upwork](https://www.upwork.com/freelancers/~0171e571e38bac7875) · [Fiverr](https://www.fiverr.com/users/lahiru255/portfolio)**
+My work combines low-level embedded programming, sensor interfacing, communication protocols, robotics, computer vision, and edge AI. I enjoy working across the full engineering lifecycle — from understanding hardware constraints and designing system interfaces to implementing algorithms, debugging complex failures, and validating complete systems.
+
+I focus on practical engineering, reliable implementation, and solutions that connect physical devices with intelligent software.
+
+**[LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [GitHub](https://github.com/LahiruMaduranga) · [Portfolio](https://lahirumaduranga.github.io/)**
 
 ## Find the work relevant to you
 
 | Your interest | Start here |
 | --- | --- |
-| Embedded engineering roles | [Sensor interfaces and firmware](#open-source-notebook) |
+| Embedded engineering roles | [Voice-controlled media](#open-source-project) |
 | Robotics and automation | [Card sorting and vision-guided manipulation](#selected-work) |
-| Product development or freelance collaboration | [View my Upwork profile](https://www.upwork.com/freelancers/~0171e571e38bac7875) |
+| Product development or collaboration | [Connect on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) |
 
 ## Selected work
 
-Project photographs and design renders are labelled individually. Concept illustrations are used for projects without supplied images.
+Project photographs and design renders are labelled individually. Confidential case studies are anonymized, described at a high level, and shown without project imagery or source-repository links.
 
-### VR Haptic Glove
+### ALPR Unit with Gate Control
 
-<img src="assets/glove-dark.svg" alt="Concept illustration: VR Haptic Glove" width="440">
+<img src="assets/photos/alpr-unit.webp" alt="ALPR unit enclosure shown in a project graphic labelled ALPR UNIT WITH GATE CONTROL FUNCTION" width="440">
 
-*Concept illustration.*
+*Prototype unit: ALPR unit with gate control.*
 
-**Human–machine interaction · 2023–2024**
+**Computer Vision / Access Control · 2023–2024**
 
-Exploring the connection between physical interaction and virtual environments.
+An automatic license plate recognition unit with a gate-control function.
 
 <details>
 <summary>Project overview</summary>
 
-A haptic glove project listed in my engineering portfolio. It brings together my interests in embedded systems and interactive hardware.
+An automatic license plate recognition unit with gate control. A camera inside the standing enclosure captures approaching vehicles, and the recognition result drives the gate-control output.
 
-[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/)
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/alpr.html)
 
 </details>
 
-### MTG Card Sorting Machine
+### Autonomous Rover & Sensor Integration
 
-<img src="assets/sorter-dark.svg" alt="Concept illustration: MTG Card Sorting Machine" width="440">
+<img src="assets/photos/rover-platform.webp" alt="Autonomous rover on an off-road chassis with a LiDAR sensor on top, a ZED Mini stereo camera and additional cameras at the front" width="440">
 
-*Concept illustration.*
+*Prototype: Autonomous rover prototype with LiDAR and stereo-camera sensing.*
 
-**Physical automation · 2023**
+**Robotics / Embedded Systems / Perception**
 
-A card-sorting project at the intersection of hardware and automation.
+An integrated mobile robotics platform combining embedded control, onboard sensing, and perception components for autonomous-system development.
 
 <details>
 <summary>Project overview</summary>
 
-A machine project focused on sorting Magic: The Gathering cards. It is part of my work exploring practical automation.
+A mobile robotics platform for autonomous-system development. The prototype carries a LiDAR sensor on top, a ZED Mini stereo camera and additional cameras at the front, and its control electronics on an off-road chassis with independent suspension.
 
-[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/)
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/rover-chassis.html)
+
+</details>
+
+### AC Power & Battery Charging Unit
+
+<img src="assets/photos/power-supply.webp" alt="Power-supply PCB design with an AC module, USB connector, terminal block, and battery charging function" width="440">
+
+*PCB design render: AC power and battery-charging board.*
+
+**Power & integration**
+
+A power unit for running Arduino projects from AC, with a battery-charging function.
+
+<details>
+<summary>Project overview</summary>
+
+A power-supply board presented with AC input and battery-charging functionality. The supplied design render shows an enclosed power module, connector terminals, a USB connector, and the surrounding power circuitry.
+
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/power-supply.html)
+
+</details>
+
+### 3D-Printed Robotic Hand Firmware
+
+<img src="assets/photos/robotic-hand.webp" alt="White 3D-printed articulated robotic hand with visible micro servos and finger joints" width="440">
+
+*Prototype: 3D-printed robotic hand with articulated fingers and servo actuation.*
+
+**Firmware & articulated hardware**
+
+Firmware and servo actuation for a 3D-printed robotic hand with articulated fingers.
+
+<details>
+<summary>Project overview</summary>
+
+The prototype photograph shows a 3D-printed hand with jointed fingers and several micro servos. It captures the mechanical assembly and actuation hardware.
+
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/robotic-hand.html)
+
+</details>
+
+### MTG Card Recognition & Sorting Machine
+
+<img src="assets/photos/card-sorter.jpg" alt="Card sorting machine with a card feeder on a lead-screw stage, an LED light bar, a belt-driven gantry, and rows of sorted trading cards in slots" width="440">
+
+*Prototype photo: The card recognition and sorting machine: feeder, imaging area, gantry, and sorted card slots.*
+
+**Computer Vision / Embedded Automation / System Integration · 2023**
+
+A machine-vision-based system designed to identify trading cards and support automated sorting through card recognition, OCR, variant classification, and backend integration.
+
+<details>
+<summary>Project overview</summary>
+
+A machine-vision system for Magic: The Gathering cards. Each card is photographed, read with OCR, classified by printing and variant, matched against a card database, and routed by the sorting mechanism, with results logged to a backend.
+
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/card-sorter.html)
 
 </details>
 
@@ -77,79 +153,116 @@ A project connecting real-time object recognition with robotic arm control.
 <details>
 <summary>Project overview</summary>
 
-This project brings object recognition and robotic arm control together. View the original project entry in my Upwork portfolio, or contact me to discuss the work.
+This project brings object recognition and robotic arm control together. Contact me on LinkedIn to discuss the work.
 
-[View project on Upwork](https://www.upwork.com/freelancers/~0171e571e38bac7875?p=1626377752716083200)
 
-</details>
 
-### ALPR Unit with Gate Control
 
-<img src="assets/vision-dark.svg" alt="Concept illustration: ALPR Unit with Gate Control" width="440">
-
-*Concept illustration.*
-
-**Recognition & access control · 2023–2024**
-
-An automatic license plate recognition unit with a gate-control function.
-
-<details>
-<summary>Project overview</summary>
-
-An ALPR unit combining license plate recognition with gate control. The supplied project presentation shows the unit's enclosure and front-facing imaging area.
-
-[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/)
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/robotic-arm.html)
 
 </details>
 
-### AC Power & Battery Charging Board
+### Custom ESP32 Board
 
+<img src="assets/photos/development-board.webp" alt="Custom ESP32 board render with the shielded ESP32 module, two pushbuttons, pin headers on both edges, and supporting components" width="440">
 
-
-
-
-**Power & integration**
-
-A power-board design for powering Arduino projects from AC, with a battery-charging function.
-
-<details>
-<summary>Project overview</summary>
-
-A power-supply board presented with AC input and battery-charging functionality. The supplied design render shows an enclosed power module, connector terminals, a USB connector, and the surrounding power circuitry.
-
-[View Fiverr portfolio](https://www.fiverr.com/users/lahiru255/portfolio)
-
-</details>
-
-### Embedded Development Board
-
-
-
-
+*PCB design render: Custom ESP32 board, PCB design render.*
 
 **PCB & device integration**
 
-A development-board design bringing a shielded module, pushbuttons, and pin headers together on one PCB.
+A custom ESP32 board design bringing a shielded module, pushbuttons, and pin headers together on one PCB.
 
 <details>
 <summary>Project overview</summary>
 
-An embedded development-board design shown in the supplied PCB render. The layout includes a shielded module, two pushbuttons, edge pin headers, and supporting components.
+A custom ESP32 board design shown in the supplied PCB render. The layout includes the shielded ESP32 module, two pushbuttons, edge pin headers, and supporting components.
 
-[View Fiverr portfolio](https://www.fiverr.com/users/lahiru255/portfolio)
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/development-board.html)
 
 </details>
 
-## Open-source notebook
+### Automated Garment Folding
 
-### Multiple analog sensors on an ESP8266
 
-An experiment in working with a hardware constraint: reading multiple analog sensors through the ESP8266’s single analog input using sequential sensor switching.
 
-The repository includes an Arduino C++ sketch and circuit diagram.
 
-**[Explore the repository](https://github.com/LahiruMaduranga/Read-Multiple-Analog-sensor-values-with-esp8266-Nodemcu)**
 
+**Garment automation**
+
+A confidential project exploring automated garment handling and folding.
+
+<details>
+<summary>High-level overview</summary>
+
+This confidential project explores automated garment handling and folding. Further details and project imagery are withheld; contact me on LinkedIn to discuss the work.
+
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/fabric-handling.html)
+
+</details>
+
+### Cleaning Robot
+
+
+
+
+
+**Robotics**
+
+A confidential project contributing to a cleaning-robot system.
+
+<details>
+<summary>High-level overview</summary>
+
+This confidential project concerns a cleaning-robot system. Further details and project imagery are withheld; contact me on LinkedIn to discuss the work.
+
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/cleaning-robot-interface.html)
+
+</details>
+
+### Garment Measurement System
+
+<img src="assets/photos/garment.webp" alt="Long-sleeve striped shirt laid flat, cut out from its background" width="440">
+
+*Capture render: Long-sleeve shirt capture, segmented from the background.*
+
+**Computer Vision / Measurement**
+
+A computer-vision system for measuring garments as part of quality control.
+
+<details>
+<summary>High-level overview</summary>
+
+A computer-vision workflow for garment quality control: garments are captured with a camera and measured automatically. This is a confidential project, so technical details are kept at a high level.
+
+
+
+
+[Discuss this project on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [Project page](https://lahirumaduranga.github.io/projects/garment-measurement.html)
+
+</details>
+
+## Open-source project
+
+### Voice-Activated YouTube Player
+
+A project for controlling YouTube playback with voice commands.
+
+**[Explore the project on GitHub](https://github.com/LahiruMaduranga/voice-activated-youtube-player)**
+
+## From the workbench
+
+<img src="assets/photos/workbench.jpg" alt="Electronics workbench with a laptop, oscilloscope, bench power supply, multimeter, and soldering equipment" width="760">
+
+*At the workbench — electronics, firmware, and hands-on testing.*
 
 ## Engineering focus
 
@@ -171,10 +284,8 @@ The repository includes an Arduino C++ sketch and circuit diagram.
 | Linux & connected devices | Raspberry Pi · Embedded Linux · IoT connectivity |
 | Integration & debugging | Sensor integration · Peripheral control · Firmware debugging |
 
-[Embedded systems services on Fiverr](https://www.fiverr.com/lahiru255/develop-esp32-stm32-embedded-systems-and-iot-solutions)
-
 ## Let’s talk
 
-Have an engineering role, a freelance project, or a collaboration in mind? Let’s discuss what you’re building.
+Have an engineering role, a project, or a collaboration in mind? Let’s discuss what you’re building.
 
-**[Hire through Upwork](https://www.upwork.com/freelancers/~0171e571e38bac7875) · [View Fiverr portfolio](https://www.fiverr.com/users/lahiru255/portfolio) · [Connect on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/)**
+**[Connect on LinkedIn](https://www.linkedin.com/in/lahiru-maduranga97/) · [View my GitHub](https://github.com/LahiruMaduranga) · [Portfolio](https://lahirumaduranga.github.io/)**
