@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="t d">
 <title id="t">Lahiru Maduranga · Embedded Systems Engineer</title>
 <desc id="d">Lahiru Maduranga, Embedded Systems Engineer in Sri Lanka with more than five years of hands-on experience across firmware, robotics, IoT, computer vision, and edge AI.</desc>
-<defs><clipPath id="clip"><rect x="0.5" y="0.5" width="999" height="299" rx="18"/></clipPath><clipPath id="scope"><rect x="732" y="96" width="216" height="118"/></clipPath>
+<defs><clipPath id="clip"><rect x="0.5" y="0.5" width="999" height="299" rx="18"/></clipPath>
 <radialGradient id="glow" cx="90%" cy="15%" r="55%"><stop offset="0" stop-color="#ff4d5c" stop-opacity="0.14"/><stop offset="1" stop-color="#ff4d5c" stop-opacity="0"/></radialGradient></defs>
 <style>
   .eyebrow{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:13px;font-weight:600;letter-spacing:3px;fill:#ff4d5c}
@@ -12,13 +12,27 @@
   .small{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:12px;letter-spacing:1px;fill:#b7bac2}
   .rot{opacity:0;animation:rot 12s linear infinite both}
   @keyframes rot{0%{opacity:0}3%{opacity:1}22%{opacity:1}25%{opacity:0}100%{opacity:0}}
-  .trace{animation:scroll linear infinite}
-  @keyframes scroll{from{transform:translate(732px,0)}to{transform:translate(516px,0)}}
+  .con{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;fill:#ffffff}
+  .bar{transform-box:fill-box;transform-origin:left center;animation:bar 12s ease-in-out infinite}
+  @keyframes l0{0%,3.25%{opacity:0}4.58%,93.33%{opacity:1}96.67%,100%{opacity:0}}
+  @keyframes p0{0%,10.75%{opacity:0}11.67%,15.00%{opacity:1}15.42%,100%{opacity:0}}
+  @keyframes k0{0%,14.92%{opacity:0}16.25%,93.33%{opacity:1}96.67%,100%{opacity:0}}
+  @keyframes p1{0%,18.25%{opacity:0}19.17%,22.50%{opacity:1}22.92%,100%{opacity:0}}
+  @keyframes k1{0%,22.42%{opacity:0}23.75%,93.33%{opacity:1}96.67%,100%{opacity:0}}
+  @keyframes p2{0%,25.75%{opacity:0}26.67%,30.00%{opacity:1}30.42%,100%{opacity:0}}
+  @keyframes k2{0%,29.92%{opacity:0}31.25%,93.33%{opacity:1}96.67%,100%{opacity:0}}
+  @keyframes p3{0%,33.25%{opacity:0}34.17%,37.50%{opacity:1}37.92%,100%{opacity:0}}
+  @keyframes k3{0%,37.42%{opacity:0}38.75%,93.33%{opacity:1}96.67%,100%{opacity:0}}
+  @keyframes p4{0%,40.75%{opacity:0}41.67%,45.00%{opacity:1}45.42%,100%{opacity:0}}
+  @keyframes k4{0%,44.92%{opacity:0}46.25%,93.33%{opacity:1}96.67%,100%{opacity:0}}
+  @keyframes rdy{0%,48.25%{opacity:0}49.58%,93.33%{opacity:1}96.67%,100%{opacity:0}}
+  @keyframes bootled{0%,-0.08%{opacity:0}0.83%,47.92%{opacity:1}48.33%,100%{opacity:0}}
+  @keyframes bar{0%,3.33%{transform:scaleX(0)}45.83%,93.33%{transform:scaleX(1)}96.67%,100%{transform:scaleX(0)}}
   .fade{opacity:0;animation:fade .7s ease-out forwards}
   @keyframes fade{to{opacity:1}}
   .blink{animation:blink 1.2s ease-in-out infinite}
   @keyframes blink{50%{opacity:.15}}
-  @media (prefers-reduced-motion: reduce){*{animation:none!important} .rot{opacity:0} .rot:first-of-type{opacity:1} .fade{opacity:1}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important} .rot{opacity:0} .rot:first-of-type{opacity:1} .fade{opacity:1} .pending,.bootled{opacity:0} .bar{transform:none}}
 </style>
 <g clip-path="url(#clip)"><rect width="1000" height="300" fill="#111317"/><rect width="1000" height="300" fill="url(#glow)"/></g>
 <rect x="0.5" y="0.5" width="999" height="299" rx="18" fill="none" stroke="#383b43"/>
@@ -27,10 +41,11 @@
 <text class="lead" x="56" y="188">I build</text>
 <g><text class="lead rot" x="56" y="188" style="animation-delay:0s"><tspan fill-opacity="0">I build </tspan><tspan class="hl">firmware for ESP32 and STM32 microcontrollers</tspan></text><text class="lead rot" x="56" y="188" style="animation-delay:3s"><tspan fill-opacity="0">I build </tspan><tspan class="hl">autonomous rovers with LiDAR and stereo cameras</tspan></text><text class="lead rot" x="56" y="188" style="animation-delay:6s"><tspan fill-opacity="0">I build </tspan><tspan class="hl">machine-vision systems that sort and inspect</tspan></text><text class="lead rot" x="56" y="188" style="animation-delay:9s"><tspan fill-opacity="0">I build </tspan><tspan class="hl">license-plate recognition with gate control</tspan></text></g>
 <g class="fade" style="animation-delay:0.60s"><rect x="56.0" y="226" width="390.6" height="28" rx="14" fill="#1b1e24" stroke="#383b43"/><text class="chip" x="251.3" y="244.5" text-anchor="middle">Senior Embedded Systems Engineer @ Surge Robotics</text></g><g class="fade" style="animation-delay:0.75s"><rect x="456.6" y="226" width="153.8" height="28" rx="14" fill="#1b1e24" stroke="#383b43"/><text class="chip" x="533.5" y="244.5" text-anchor="middle">5+ years hands-on</text></g><g class="fade" style="animation-delay:0.90s"><rect x="620.4" y="226" width="94.6" height="28" rx="14" fill="#1b1e24" stroke="#383b43"/><text class="chip" x="667.7" y="244.5" text-anchor="middle">Sri Lanka</text></g>
-<rect x="684" y="56" width="276" height="164" rx="10" fill="#181b21" stroke="#383b43"/>
-<circle class="blink" cx="700" cy="76" r="4.5" fill="#ff4d5c"/>
-<text class="small" x="712" y="80">UART · 115200</text>
-<text class="small" x="944" y="80" text-anchor="end">LOGIC</text>
-<path d="M732 96v118" stroke="#383b43" stroke-dasharray="2 4"/><path d="M768 96v118" stroke="#383b43" stroke-dasharray="2 4"/><path d="M804 96v118" stroke="#383b43" stroke-dasharray="2 4"/><path d="M840 96v118" stroke="#383b43" stroke-dasharray="2 4"/><path d="M876 96v118" stroke="#383b43" stroke-dasharray="2 4"/><path d="M912 96v118" stroke="#383b43" stroke-dasharray="2 4"/><path d="M948 96v118" stroke="#383b43" stroke-dasharray="2 4"/><text class="small" x="700" y="118">CLK</text><g clip-path="url(#scope)"><path class="trace" d="M0 122v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9v-14h9v14h9" transform="translate(732 0)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linejoin="round" style="animation-duration:1.6s"/></g><text class="small" x="700" y="156">TX</text><g clip-path="url(#scope)"><path class="trace" d="M0 162h13.5v-14h13.5h13.5v14h13.5v-14h13.5v14h13.5h13.5v-14h13.5h13.5h13.5v14h13.5v-14h13.5v14h13.5h13.5v-14h13.5v14h13.5h13.5v-14h13.5h13.5v14h13.5v-14h13.5v14h13.5h13.5v-14h13.5h13.5h13.5v14h13.5v-14h13.5v14h13.5h13.5v-14h13.5v14h13.5" transform="translate(732 0)" fill="none" stroke="#ff4d5c" stroke-width="2" stroke-linejoin="round" style="animation-duration:4s"/></g><text class="small" x="700" y="194">ADC</text><g clip-path="url(#scope)"><path class="trace" d="M0 196.0L3 193.9L6 191.9L9 190.0L12 188.3L15 186.8L18 185.6L21 184.7L24 184.2L27 184.0L30 184.2L33 184.7L36 185.6L39 186.8L42 188.3L45 190.0L48 191.9L51 193.9L54 196.0L57 198.1L60 200.1L63 202.0L66 203.7L69 205.2L72 206.4L75 207.3L78 207.8L81 208.0L84 207.8L87 207.3L90 206.4L93 205.2L96 203.7L99 202.0L102 200.1L105 198.1L108 196.0L111 193.9L114 191.9L117 190.0L120 188.3L123 186.8L126 185.6L129 184.7L132 184.2L135 184.0L138 184.2L141 184.7L144 185.6L147 186.8L150 188.3L153 190.0L156 191.9L159 193.9L162 196.0L165 198.1L168 200.1L171 202.0L174 203.7L177 205.2L180 206.4L183 207.3L186 207.8L189 208.0L192 207.8L195 207.3L198 206.4L201 205.2L204 203.7L207 202.0L210 200.1L213 198.1L216 196.0L219 193.9L222 191.9L225 190.0L228 188.3L231 186.8L234 185.6L237 184.7L240 184.2L243 184.0L246 184.2L249 184.7L252 185.6L255 186.8L258 188.3L261 190.0L264 191.9L267 193.9L270 196.0L273 198.1L276 200.1L279 202.0L282 203.7L285 205.2L288 206.4L291 207.3L294 207.8L297 208.0L300 207.8L303 207.3L306 206.4L309 205.2L312 203.7L315 202.0L318 200.1L321 198.1L324 196.0L327 193.9L330 191.9L333 190.0L336 188.3L339 186.8L342 185.6L345 184.7L348 184.2L351 184.0L354 184.2L357 184.7L360 185.6L363 186.8L366 188.3L369 190.0L372 191.9L375 193.9L378 196.0L381 198.1L384 200.1L387 202.0L390 203.7L393 205.2L396 206.4L399 207.3L402 207.8L405 208.0L408 207.8L411 207.3L414 206.4L417 205.2L420 203.7L423 202.0L426 200.1L429 198.1L432 196.0" transform="translate(732 0)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linejoin="round" style="animation-duration:3s"/></g>
-<text class="small" x="944" y="268" text-anchor="end">&gt; boot ok · sensors online</text>
+<rect x="684" y="40" width="276" height="180" rx="10" fill="#181b21" stroke="#383b43"/>
+<g class="bootled" style="animation:bootled 12s linear infinite"><circle class="blink" cx="700" cy="60" r="4.5" fill="#ff4d5c"/></g>
+<g style="animation:rdy 12s linear infinite"><circle cx="700" cy="60" r="4.5" fill="#3fb950"/></g>
+<text class="small" x="712" y="64">BOOT SEQUENCE</text>
+<rect x="698" y="76" width="248" height="4" rx="2" fill="#383b43"/><rect class="bar" x="698" y="76" width="248" height="4" rx="2" fill="#ff4d5c"/>
+<g style="animation:l0 12s linear infinite"><text class="con" x="698" y="102"><tspan fill="#ff4d5c">&gt;</tspan> rst: power-on · ROM boot</text></g><g class="pending" style="animation:p0 12s linear infinite"><text class="con" x="698" y="119"><tspan fill="#b7bac2">[ .. ]</tspan> bootloader</text></g><g class="final" style="animation:k0 12s linear infinite"><text class="con" x="698" y="119"><tspan fill="#3fb950" font-weight="700">[ OK ]</tspan> bootloader <tspan fill="#b7bac2">partition table</tspan></text></g><g class="pending" style="animation:p1 12s linear infinite"><text class="con" x="698" y="135"><tspan fill="#b7bac2">[ .. ]</tspan> clocks</text></g><g class="final" style="animation:k1 12s linear infinite"><text class="con" x="698" y="135"><tspan fill="#3fb950" font-weight="700">[ OK ]</tspan> clocks <tspan fill="#b7bac2">PLL · peripheral clocks</tspan></text></g><g class="pending" style="animation:p2 12s linear infinite"><text class="con" x="698" y="151"><tspan fill="#b7bac2">[ .. ]</tspan> watchdog</text></g><g class="final" style="animation:k2 12s linear infinite"><text class="con" x="698" y="151"><tspan fill="#3fb950" font-weight="700">[ OK ]</tspan> watchdog <tspan fill="#b7bac2">armed</tspan></text></g><g class="pending" style="animation:p3 12s linear infinite"><text class="con" x="698" y="167"><tspan fill="#b7bac2">[ .. ]</tspan> peripherals</text></g><g class="final" style="animation:k3 12s linear infinite"><text class="con" x="698" y="167"><tspan fill="#3fb950" font-weight="700">[ OK ]</tspan> peripherals <tspan fill="#b7bac2">UART · I²C · SPI · CAN</tspan></text></g><g class="pending" style="animation:p4 12s linear infinite"><text class="con" x="698" y="183"><tspan fill="#b7bac2">[ .. ]</tspan> scheduler</text></g><g class="final" style="animation:k4 12s linear infinite"><text class="con" x="698" y="183"><tspan fill="#3fb950" font-weight="700">[ OK ]</tspan> scheduler <tspan fill="#b7bac2">RTOS started</tspan></text></g>
+<g style="animation:rdy 12s linear infinite"><text x="698" y="211" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#ff4d5c">app_main() · READY<tspan class="blink" fill="#ffffff">_</tspan></text></g>
 </svg>
